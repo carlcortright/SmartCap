@@ -10,7 +10,11 @@ Picture of first prototype:
 ## Features that still need to be implemented 
 
 -Edison Firmware 
+
 -Android App
+
 -Activity Tracking
+
 -Under the rim touchpad
+
 -Rim lights 
